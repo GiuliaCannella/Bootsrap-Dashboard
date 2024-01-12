@@ -1,0 +1,51 @@
+.bg-grey {
+  background-color: #e9ecef;
+}
+
+.list-style-none {
+  list-style: none;
+}
+
+.text-gold {
+  color: #ffa500;
+}
+
+.mobile-logo {
+  width: 50px;
+}
+
+.sidebar,
+.main-content {
+  height: calc(100vh - 56px);
+
+}
+
+.main-content {
+  overflow-y: auto;
+}
+
+
+.bg-sidebar {
+  background-image: url("../img/sidebar-bg.png");
+  background-color: #051e34;
+}
+
+.sidebar .lista-link li a {
+  border: 1px solid transparent;
+  padding: 0.5em 1em;
+}
+
+.sidebar .lista-link li a:hover {
+  color: black !important;
+  background-color: #b4bcc2;
+  border-radius: 5px;
+}
+
+.bg-blue {
+  background-color: #165bba;
+}
+
+
+.w-10 {
+  width: 10%;
+} 
